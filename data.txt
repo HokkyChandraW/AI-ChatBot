@@ -1,0 +1,13 @@
+Alamat dari Rumah Sakit 'Corona Killer' adalah di jalan Mangga nomor 24, Lampriet, Banda Aceh.
+
+Jadwal rumah sakit dibuka adalah 24 jam.
+
+Daftar rawat inap yang disediakan adalah berikut
+- Room 1 : Memiliki fasilitas AC, Terdapat TV, Ruang Pribadi, dan terletak di lantai 3
+- Room 2 : Tidak memiliki AC, Ruang Pribadi, terdapat tv, dan terletak di lantai 2
+
+Format booking tempat :
+
+[Booking Tempat]
+Nama :
+Waktu : (ex: Senin, 12-01-2021, 21.00).
